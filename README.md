@@ -2,6 +2,8 @@
 
 Tento repozitář obsahuje MATLAB simulátor elektromagnetického děla (coilgunu). Pro dosažení vysoké přesnosti i rychlosti využívá simulátor Lookup tabulky (LUT) předgenerované ze simulací v programu QuickField.
 
+Pracovní název CG.ani 
+
 ## Požadavky (Prerequisites)
 
 - **MATLAB** (R2024b nebo novější)
